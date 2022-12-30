@@ -30,10 +30,7 @@ require_once "inc/header.php";
                     </div>
                 </div>
                 <div class="c-solution-hero_graphic">
-                    <img height="432" loading="lazy" width="504" alt="" src="/assets/images/agent.png" class="c-solution-hero_image" />
-                    <img src="/assets/images/Rocket.svg" loading="lazy" width="62" height="62" alt="rocket" class="c-solution-hero_icon cc-1" />
-                    <img src="/assets/images/house.svg" loading="lazy" width="55" height="55" alt="house" class="c-solution-hero_icon cc-2" />
-                    <img src="/assets/images/E-sign.svg" loading="lazy" width="49" height="49" alt="electronic signature" class="c-solution-hero_icon cc-3" />
+                    <img height="432" loading="lazy" width="504" alt="" src="/assets/images/banner.png" class="c-solution-hero_image" />
                 </div>
                 <div class="c-double-cta cc-show-tablet">
                     <div class="c-cta">
