@@ -95,7 +95,7 @@
             position: absolute;
             top: 0;
             left: 0;
-            background: linear-gradient(90deg, rgba(0, 75, 176, 1) 0%, rgba(0, 75, 176, 1) 50%, rgba(0, 122, 223, 1) 100%);
+            background: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%);
             transition: transform 0.3s;
             transform: translate(-50%, 0%);
             z-index: 0;

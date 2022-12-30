@@ -3643,7 +3643,7 @@ figcaption {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00c9e5));
-    background-image: linear-gradient(90deg, #007adf, #00c9e5);
+    background-image: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent
@@ -3651,7 +3651,7 @@ figcaption {
 
 .cc-gradient-blue-2 {
     background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00c9e5));
-    background-image: linear-gradient(90deg, #007adf, #00c9e5)
+    background-image: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%)
 }
 
 .cc-gradient-blue-2.cc-clip-text.cc-modified {
@@ -10642,12 +10642,12 @@ figcaption {
 
 .cc-gradient-blue-2-2 {
     background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00c9e5));
-    background-image: linear-gradient(90deg, #007adf, #00c9e5)
+    background-image: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%)
 }
 
 .cc-gradient-blue-2-2.cc-clip-text {
     background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00c9e5));
-    background-image: linear-gradient(90deg, #007adf, #00c9e5);
+    background-image: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent
@@ -11754,7 +11754,7 @@ figcaption {
     .c-title-3.c-tablet_span.cc-gradient-blue-2 {
         width: auto;
         background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00c9e5));
-        background-image: linear-gradient(90deg, #007adf, #00c9e5);
+        background-image: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%);
         -webkit-background-clip: text;
         background-clip: text;
         -webkit-text-fill-color: transparent
@@ -12052,7 +12052,7 @@ figcaption {
 
     .cc-mint-3.cc-mobile-hero {
         background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00c9e5));
-        background-image: linear-gradient(90deg, #007adf, #00c9e5);
+        background-image: linear-gradient(90deg, rgba(96,50,212, 1) 0%, rgba(96,50,212, 1) 50%, rgba(55,105,244, 1) 100%);
         -webkit-background-clip: text;
         background-clip: text;
         -webkit-text-fill-color: transparent
