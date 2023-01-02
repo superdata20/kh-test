@@ -65,7 +65,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="/keyholder-privacy-policy" class="c-footer_link w-inline-block">
+                            <a href="/privacy-policy" class="c-footer_link w-inline-block">
                                 <div class="c-text-2 cc-footer">Privacy Policy</div>
                             </a>
                         </li>
