@@ -3,7 +3,7 @@ require_once "inc/header.php";
 ?>
 <main class="c-page">
     <figure class="c-diamonds-wrap cc-purple"></figure>
-    <section class="c-solution_hero-section">
+    <section class="c-solution_hero-section" style="background-image: url('/assets/images/banner.png');background-repeat: no-repeat;background-position: center;background-size: 2000px;height: 715px;">
         <div class="c-container">
             <div class="c-feature-hero">
                 <div class="c-solution-hero_copy">
@@ -29,9 +29,9 @@ require_once "inc/header.php";
                         </div>
                     </div>
                 </div>
-                <div class="c-solution-hero_graphic">
-                    <img height="432" loading="lazy" width="504" alt="" src="/assets/images/banner.png" class="c-solution-hero_image" />
-                </div>
+<!--                <div class="c-solution-hero_graphic">-->
+<!--                    <img height="432" loading="lazy" width="504" alt="" src="/assets/images/banner.png" class="c-solution-hero_image" />-->
+<!--                </div>-->
                 <div class="c-double-cta cc-show-tablet">
                     <div class="c-cta">
                         <a href="https://app.keyholder.ie/sign-up" class="c-button cc-wide w-inline-block">
