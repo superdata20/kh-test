@@ -3,7 +3,7 @@ require_once "inc/header.php";
 ?>
 <main class="c-page">
     <figure class="c-diamonds-wrap cc-purple"></figure>
-    <section class="c-solution_hero-section" style="background-image: url('/assets/images/banner.png');background-repeat: no-repeat;background-position: center;background-size: 2000px;height: 715px;">
+    <section class="c-solution_hero-section">
         <div class="c-container">
             <div class="c-feature-hero">
                 <div class="c-solution-hero_copy">

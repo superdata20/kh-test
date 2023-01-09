@@ -6901,7 +6901,13 @@ figcaption {
     position: relative;
     padding-top: 80px;
     padding-bottom: 80px;
-    background-image: radial-gradient(circle closest-corner at 28% 0, #e2f0ff, transparent)
+    /*background-image: radial-gradient(circle closest-corner at 28% 0, #e2f0ff, transparent)*/
+
+    background-image: url('/assets/images/banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2000px;
+    height: 650px;
 }
 
 .c-solution_quote {
@@ -13682,7 +13688,10 @@ figcaption {
     .c-solution_hero-section {
         padding-top: 60px;
         padding-bottom: 20px;
-        background-image: none
+        background-image: none;
+
+        background-size: initial;
+        height: initial;
     }
 
     .c-solution_quote {
